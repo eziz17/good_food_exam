@@ -1,0 +1,19 @@
+.bg-image{
+    background-image: url("../img/pexelsphoto1639563.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-2{
+    background-image: url("../img/pexelsphoto842142.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 768px) {
+    .fadeshow1 {
+        display: none;
+    }
+}
